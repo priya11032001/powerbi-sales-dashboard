@@ -1,0 +1,31 @@
+SaleID,RepName,Region,Product,Stage,DealValue,CloseDate,LastActivityDate,Quarter
+1001,Alex Johnson,East,Enterprise Suite,Closed Won,45000,2024-01-15,2024-01-15,Q1
+1002,Maria Chen,West,Starter Pack,Closed Won,12000,2024-01-22,2024-01-22,Q1
+1003,James Patel,North,Enterprise Suite,Negotiation,67000,2024-03-30,2024-01-10,Q1
+1004,Sarah Kim,South,Pro Plan,Closed Won,28000,2024-02-05,2024-02-05,Q1
+1005,Alex Johnson,East,Pro Plan,Closed Lost,19000,2024-02-14,2024-02-14,Q1
+1006,Maria Chen,West,Enterprise Suite,Closed Won,82000,2024-02-28,2024-02-28,Q1
+1007,James Patel,North,Starter Pack,Proposal,8500,2024-04-15,2024-02-20,Q1
+1008,Sarah Kim,South,Enterprise Suite,Closed Won,54000,2024-03-10,2024-03-10,Q1
+1009,David Wong,East,Pro Plan,Closed Won,31000,2024-03-18,2024-03-18,Q1
+1010,Lisa Park,West,Starter Pack,Closed Lost,9500,2024-03-25,2024-03-25,Q1
+1011,Alex Johnson,East,Enterprise Suite,Closed Won,71000,2024-04-03,2024-04-03,Q2
+1012,Maria Chen,West,Pro Plan,Negotiation,24000,2024-06-28,2024-04-05,Q2
+1013,James Patel,North,Enterprise Suite,Closed Won,58000,2024-04-20,2024-04-20,Q2
+1014,Sarah Kim,South,Pro Plan,Closed Won,33000,2024-05-02,2024-05-02,Q2
+1015,David Wong,East,Starter Pack,Closed Lost,7000,2024-05-15,2024-05-15,Q2
+1016,Lisa Park,West,Enterprise Suite,Closed Won,91000,2024-05-22,2024-05-22,Q2
+1017,Alex Johnson,East,Pro Plan,Proposal,22000,2024-07-10,2024-05-01,Q2
+1018,Maria Chen,West,Enterprise Suite,Closed Won,63000,2024-06-08,2024-06-08,Q2
+1019,James Patel,North,Starter Pack,Closed Won,11000,2024-06-15,2024-06-15,Q2
+1020,Sarah Kim,South,Enterprise Suite,Closed Lost,48000,2024-06-30,2024-06-30,Q2
+1021,David Wong,East,Pro Plan,Closed Won,29000,2024-07-05,2024-07-05,Q3
+1022,Lisa Park,West,Enterprise Suite,Closed Won,77000,2024-07-18,2024-07-18,Q3
+1023,Alex Johnson,East,Starter Pack,Negotiation,14000,2024-09-25,2024-07-02,Q3
+1024,Maria Chen,West,Pro Plan,Closed Won,26000,2024-08-01,2024-08-01,Q3
+1025,James Patel,North,Enterprise Suite,Closed Won,84000,2024-08-14,2024-08-14,Q3
+1026,Sarah Kim,South,Starter Pack,Closed Lost,6500,2024-08-22,2024-08-22,Q3
+1027,David Wong,East,Enterprise Suite,Closed Won,69000,2024-09-03,2024-09-03,Q3
+1028,Lisa Park,West,Pro Plan,Proposal,18000,2024-10-15,2024-08-10,Q3
+1029,Alex Johnson,East,Enterprise Suite,Closed Won,95000,2024-09-20,2024-09-20,Q3
+1030,Maria Chen,West,Starter Pack,Closed Won,13000,2024-09-28,2024-09-28,Q3
